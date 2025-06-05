@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+  <section xml:id="latexml">
+    <title>LaTeXML</title>
+    
+    <introduction xml:id="latexml-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <p>Remarks about general use cases and level of time commitment.</p>
+    </introduction> 
+    <subsection xml:id="latexml-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Workflow 1</title>
+      <introduction>
+        <p>Some words</p>
+      </introduction>
+      <subsubsection xml:id="latexml-1-1">
+      <title>My First Subsection</title>
+        <p>Some more words</p>
+        <p>foo</p>
+      </subsubsection>
+    </subsection>
+
+    <subsection xml:id="latexml-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Workflow 2</title>
+      <introduction>
+        <p>Some words</p>
+      </introduction>
+    </subsection>
+  </section>

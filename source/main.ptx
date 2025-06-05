@@ -16,9 +16,21 @@
     </introduction> 
 
     <xi:include href="./oer.ptx" />
+
     <xi:include href="./pretext.ptx" />
     <xi:include href="./quarto.ptx" />
-    
+    <xi:include href="./latexml.ptx" />
+    <xi:include href="./canvas.ptx" />
+
+    <xi:include href="./ai.ptx" />
+    <xi:include href="./prefigure.ptx" />
+
+    <xi:include href="./webwork.ptx" />
+    <xi:include href="./desmos.ptx" />
+    <xi:include href="./doenet.ptx" />
+
+    <xi:include href="./echo360.ptx" />
+
   </article>
 
 </pretext>

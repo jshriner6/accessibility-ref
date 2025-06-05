@@ -1,22 +1,13 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "section-1",
+  "id": "tool",
   "level": "1",
-  "url": "section-1.html",
-  "type": "Section",
-  "number": "1",
-  "title": "Workflow 1",
-  "body": " Workflow 1   Some words    My First Subsection  Some more words  foo   "
-},
-{
-  "id": "section-2",
-  "level": "1",
-  "url": "section-2.html",
-  "type": "Section",
-  "number": "2",
-  "title": "Workflow 2",
-  "body": " Workflow 2   Some words   "
+  "url": "tool.html",
+  "type": "Article",
+  "number": "",
+  "title": "Accessibility Tools",
+  "body": " Accessibility Tools   General Remarks   PreTeXt  PreTeXt  PreTeXt  "
 }
 ]
 

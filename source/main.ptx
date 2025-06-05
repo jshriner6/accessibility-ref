@@ -3,20 +3,21 @@
 
   <docinfo>
 
-    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
+    <document-id>shriner-tools</document-id>
 
     <macros>\newcommand{\foo}{b^{ar}}</macros>
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
 
-  <article xml:id="shorttitlelowercase">
-    <title>The title of my groundbreaking paper</title>
+  <article xml:id="tool">
+    <title>Accessibility Tools</title>
+    <introduction xml:id="tools-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <p>General Remarks</p>
+    </introduction> 
 
-    <xi:include href="./frontmatter.ptx" />
-    
-    <xi:include href="./introduction.ptx" />
-    <xi:include href="./section-1.ptx" />
-    <xi:include href="./section-2.ptx" />
+    <xi:include href="./oer.ptx" />
+    <xi:include href="./pretext.ptx" />
+    <xi:include href="./quarto.ptx" />
   </article>
 
 </pretext>

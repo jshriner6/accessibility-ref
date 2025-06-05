@@ -1,1 +1,1 @@
-{"source/main.ptx": ["tool"], "source/oer.ptx": ["oer"], "source/pretext.ptx": ["pretext"], "source/quarto.ptx": ["quarto"]}
+{"source/main.ptx": ["tool"], "source/oer.ptx": ["oer"], "source/pretext.ptx": ["pretext"], "source/quarto.ptx": ["quarto"], "source/latexml.ptx": ["latexml"], "source/canvas.ptx": ["canvas"], "source/ai.ptx": ["ai"], "source/prefigure.ptx": ["prefigure"], "source/webwork.ptx": ["webwork"], "source/desmos.ptx": ["desmos"], "source/doenet.ptx": ["doenet"], "source/echo360.ptx": ["echo360"]}

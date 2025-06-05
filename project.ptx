@@ -6,6 +6,7 @@
 <project ptx-version="2">
   <targets>
     <target name="oer" format="html" source="oer.ptx"/>
+    <target name="pretext" format="html" source="pretext.ptx"/>
     <target name="print" format="pdf" />
   </targets>
 </project>

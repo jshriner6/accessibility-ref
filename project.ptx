@@ -5,8 +5,8 @@
 <!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
 <project ptx-version="2">
   <targets>
-    <target name="oer" format="html" source="oer.ptx"/>
     <target name="pretext" format="html" source="pretext.ptx"/>
+    <target name="oer" format="html" source="oer.ptx"/>
     <target name="print" format="pdf" />
   </targets>
 </project>

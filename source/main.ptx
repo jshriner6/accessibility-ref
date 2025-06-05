@@ -18,6 +18,7 @@
     <xi:include href="./oer.ptx" />
     <xi:include href="./pretext.ptx" />
     <xi:include href="./quarto.ptx" />
+    
   </article>
 
 </pretext>

@@ -1,39 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-  <docinfo>
-
-    <document-id>shriner-quarto</document-id>
-
-    <macros>\newcommand{\foo}{b^{ar}}</macros>
-    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
-  </docinfo>
-
-  <article xml:id="quarto">
+  <section xml:id="quarto">
     <title>Quarto</title>
     
     <introduction xml:id="quarto-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
       <p>Remarks about general use cases and level of time commitment.</p>
     </introduction> 
-    <section xml:id="quarto-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <subsection xml:id="quarto-1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Workflow 1</title>
       <introduction>
         <p>Some words</p>
       </introduction>
-      <subsection xml:id="quarto-1-1">
+      <subsubsection xml:id="quarto-1-1">
       <title>My First Subsection</title>
         <p>Some more words</p>
         <p>foo</p>
-      </subsection>
-    </section>
+      </subsubsection>
+    </subsection>
 
-    <section xml:id="quarto-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <subsection xml:id="quarto-2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Workflow 2</title>
       <introduction>
         <p>Some words</p>
       </introduction>
-    </section>
+    </subsection>
 
-  </article>
+  </section>
 
-</pretext>

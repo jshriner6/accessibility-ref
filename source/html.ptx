@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+  <section xml:id="html">
+    <title>HTML</title>
+    
+    <introduction xml:id="html-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+      <p>Remarks about general use cases and level of time commitment.</p>
+    </introduction> 
+    <subsection xml:id="html-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>PreTeXt</title>
+      <introduction>
+        <p>Some words</p>
+      </introduction>
+      <subsubsection xml:id="html-1-1">
+      <title>My First Subsection</title>
+        <p>Some more words</p>
+        <p>foo</p>
+      </subsubsection>
+    </subsection>
+
+    <subsection xml:id="html-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Quarto</title>
+      <introduction>
+        <p>Some words</p>
+      </introduction>
+    </subsection>
+
+    <subsection xml:id="html-3" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>LaTeXML</title>
+      <introduction>
+        <p>Some words</p>
+      </introduction>
+    </subsection>
+
+  </section>

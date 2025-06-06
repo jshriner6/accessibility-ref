@@ -4,4 +4,7 @@
     <source>
         <directories external="../assets" generated="../generated-assets"/>
     </source>
+    <html>
+        <css theme="tacoma"/>
+    </html>
 </publication>

@@ -10,38 +10,29 @@ var ptx_lunr_docs = [
   "body": " Open Source Textbooks   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
 {
-  "id": "pretext",
+  "id": "markup",
   "level": "1",
-  "url": "pretext.html",
+  "url": "markup.html",
   "type": "Section",
   "number": "2",
-  "title": "PreTeXt",
-  "body": " PreTeXt   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "title": "Markup",
+  "body": " Markup   Remarks about general use cases and level of time commitment.    PDF   Some words    My First Subsection  Some more words  foo     Word   Some words    "
 },
 {
-  "id": "quarto",
+  "id": "html",
   "level": "1",
-  "url": "quarto.html",
+  "url": "html.html",
   "type": "Section",
   "number": "3",
-  "title": "Quarto",
-  "body": " Quarto   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
-},
-{
-  "id": "latexml",
-  "level": "1",
-  "url": "latexml.html",
-  "type": "Section",
-  "number": "4",
-  "title": "LaTeXML",
-  "body": " LaTeXML   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "title": "HTML",
+  "body": " HTML   Remarks about general use cases and level of time commitment.    PreTeXt   Some words    My First Subsection  Some more words  foo     Quarto   Some words     LaTeXML   Some words    "
 },
 {
   "id": "canvas",
   "level": "1",
   "url": "canvas.html",
   "type": "Section",
-  "number": "5",
+  "number": "4",
   "title": "Canvas",
   "body": " Canvas   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
@@ -50,7 +41,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ai.html",
   "type": "Section",
-  "number": "6",
+  "number": "5",
   "title": "AI",
   "body": " AI   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
@@ -59,7 +50,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "prefigure.html",
   "type": "Section",
-  "number": "7",
+  "number": "6",
   "title": "PreFigure",
   "body": " PreFigure   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
@@ -68,7 +59,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "webwork.html",
   "type": "Section",
-  "number": "8",
+  "number": "7",
   "title": "WeBWorK",
   "body": " WeBWorK   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
@@ -77,7 +68,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "desmos.html",
   "type": "Section",
-  "number": "9",
+  "number": "8",
   "title": "Desmos",
   "body": " Desmos   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
@@ -86,7 +77,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "doenet.html",
   "type": "Section",
-  "number": "10",
+  "number": "9",
   "title": "Doenet",
   "body": " Doenet   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
@@ -95,7 +86,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "echo360.html",
   "type": "Section",
-  "number": "11",
+  "number": "10",
   "title": "Echo360",
   "body": " Echo360   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 }

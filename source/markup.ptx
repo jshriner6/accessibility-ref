@@ -4,24 +4,31 @@
     <title>Markup</title>
     
     <introduction xml:id="markup-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Update an existing document (typically a PDF or Microsoft document) to be accessible by screen readers.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Minimal to significant. For short documents, the effort is minimal. To update larger documents (like textbooks),
+          the effort is significant.
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="markup-1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>PDF</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-      <subsubsection xml:id="markup-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
+      <p>
+        This is how you tag PDFs.
+      </p>
     </subsection>
 
     <subsection xml:id="markup-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Word</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
+    <title>Microsoft</title>
+      <p>
+        This is how you tag Microsoft documents.
+      </p>
     </subsection>
   </section>

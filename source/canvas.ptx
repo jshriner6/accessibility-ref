@@ -4,24 +4,25 @@
     <title>Canvas</title>
     
     <introduction xml:id="canvas-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Author short documents, like class announcements or responses to student questions, for which you do not need
+          to have a printable version.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Minimal. 
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="canvas-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 1</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-      <subsubsection xml:id="canvas-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
+    <title>Using the Canvas Editor</title>
+      <p>
+        
+      </p>
     </subsection>
 
-    <subsection xml:id="canvas-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 2</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-    </subsection>
   </section>

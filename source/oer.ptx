@@ -4,24 +4,33 @@
     <title>Open Source Textbooks</title>
     
     <introduction xml:id="oer-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Provide a free resource to students that has an option to be modified by the instructor.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Minimal to significant. This will mostly depend on the level of modification desired.
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="oer-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 1</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-      <subsubsection xml:id="oer-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
-    </subsection>
-
-    <subsection xml:id="oer-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 2</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
+    <title>Finding Existing Textbooks</title>
+        <p>There are numerous existing open source textbooks available in mathematics. A large repository that can be searched
+           is the <url href="https://open.umn.edu/opentextbooks/subjects/mathematics">Open Textbook Library</url>. An internet
+           search for a specific topic may also be fruitful. 
+        </p>
+        <p>
+          Be aware that "open source" does not imply "accessible", so it is necessary to evaluate these texts for accessibility. 
+          Textbooks that have an HTML ("Read Online") option will, in general, be more accessible that textbooks that are 
+          available only as a PDF.
+        </p>
+        <p>
+          Modifying open source materials will vary based on how they were created. Look for instructions from the original
+          author regarding creating derivatives of the original work.
+        </p>
     </subsection>
   </section>

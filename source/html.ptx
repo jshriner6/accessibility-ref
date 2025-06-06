@@ -4,31 +4,55 @@
     <title>HTML</title>
     
     <introduction xml:id="html-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Create new documents in HTML (without having to learn HTML), which is generally the most accessible format. These
+          options are also good for authoring documents in which you'd like to have an HTML version for posting, and a PDF 
+          version for printing.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Minimal to significant. This will vary based on the platform used, so we address this separately in each 
+          subsection below.
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="html-1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>PreTeXt</title>
       <introduction>
-        <p>Some words</p>
+        <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Moderate to significant. 
+        </p>
+      </paragraphs>
       </introduction>
-      <subsubsection xml:id="html-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
     </subsection>
 
     <subsection xml:id="html-2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Quarto</title>
       <introduction>
-        <p>Some words</p>
+        <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Moderate to significant. 
+        </p>
+      </paragraphs>
       </introduction>
     </subsection>
 
     <subsection xml:id="html-3" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>LaTeXML</title>
       <introduction>
-        <p>Some words</p>
+        <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+         Minimal to moderate. 
+        </p>
+      </paragraphs>
       </introduction>
     </subsection>
 

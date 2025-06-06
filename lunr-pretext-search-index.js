@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "Open Source Textbooks",
-  "body": " Open Source Textbooks   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " Open Source Textbooks    Use Case  Provide a free resource to students that has an option to be modified by the instructor.    Time Commitment  Minimal to significant. This will mostly depend on the level of modification desired.     Finding Existing Textbooks  There are numerous existing open source textbooks available in mathematics. A large repository that can be searched is the Open Textbook Library . An internet search for a specific topic may also be fruitful.  Be aware that \"open source\" does not imply \"accessible\", so it is necessary to evaluate these texts for accessibility. Textbooks that have an HTML (\"Read Online\") option will, in general, be more accessible that textbooks that are available only as a PDF.  Modifying open source materials will vary based on how they were created. Look for instructions from the original author regarding creating derivatives of the original work.   "
 },
 {
   "id": "markup",
@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2",
   "title": "Markup",
-  "body": " Markup   Remarks about general use cases and level of time commitment.    PDF   Some words    My First Subsection  Some more words  foo     Word   Some words    "
+  "body": " Markup    Use Case  Update an existing document (typically a PDF or Microsoft document) to be accessible by screen readers.    Time Commitment  Minimal to significant. For short documents, the effort is minimal. To update larger documents (like textbooks), the effort is significant.     PDF  This is how you tag PDFs.    Microsoft  This is how you tag Microsoft documents.   "
 },
 {
   "id": "html",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3",
   "title": "HTML",
-  "body": " HTML   Remarks about general use cases and level of time commitment.    PreTeXt   Some words    My First Subsection  Some more words  foo     Quarto   Some words     LaTeXML   Some words    "
+  "body": " HTML    Use Case  Create new documents in HTML (without having to learn HTML), which is generally the most accessible format. These options are also good for authoring documents in which you'd like to have an HTML version for posting, and a PDF version for printing.    Time Commitment  Minimal to significant. This will vary based on the platform used, so we address this separately in each subsection below.     PreTeXt    Time Commitment  Moderate to significant.      Quarto    Time Commitment  Moderate to significant.      LaTeXML    Time Commitment  Minimal to moderate.     "
 },
 {
   "id": "canvas",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4",
   "title": "Canvas",
-  "body": " Canvas   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " Canvas    Use Case  Author short documents, like class announcements or responses to student questions, for which you do not need to have a printable version.    Time Commitment  Minimal.     Using the Canvas Editor     "
 },
 {
   "id": "ai",

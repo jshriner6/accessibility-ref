@@ -4,24 +4,46 @@
     <title>WeBWorK</title>
     
     <introduction xml:id="webwork-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Author exercises that can provide immediate feedback. 
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Moderate to significant. This will depend if you are creating all of your content from scratch, or if you are modifying
+          existing content.
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="webwork-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 1</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-      <subsubsection xml:id="webwork-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
+    <title>WeBWorK Exercises</title>
+      <p>
+        <url href="https://webwork.maa.org/moodle/">WeBWorK</url> is a web-based system that allows you to write and 
+        assign self-graded questions. Student progress can be tracked and imported into Canvas. The 
+        <url href="https://wuzzy.natsci.colostate.edu/webwork2">CSU WeBWorK server</url> has a list of existing courses in 
+        WeBWorK that can be used and modified. 
+      </p>
+      <p>
+        There are <url href="https://webwork.maa.org/moodle/mod/page/view.php?id=29">built-in accessibility features in WeBWorK</url>.
+        The main things to be thoughtful of when writing or using a WeBWorK exercise are the following.
+        <ol>
+          <li>
+            <p>
+              All math content should be authored in math mode (i.e., enclosing math in <c>\( \)</c>). 
+            </p>
+          </li>
+          <li>
+            <p>
+              If your exercise contains an image, be sure to write alternate text that includes the information needed from the image
+              to answer the question being asked. If you are writing or using questions that have variation, be sure to make your
+              alternate text dynamic by using the necessary variables in your image description.
+            </p>
+          </li>
+        </ol>
+      </p>
     </subsection>
 
-    <subsection xml:id="webwork-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 2</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-    </subsection>
   </section>

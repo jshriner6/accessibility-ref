@@ -4,7 +4,19 @@
     <title>Doenet</title>
     
     <introduction xml:id="doenet-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Author short documents, like class announcements, responses to student questions, or short 
+          homework assignments for which you do not need to have a printable version.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Minimal. 
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="doenet-1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Workflow 1</title>

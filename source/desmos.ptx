@@ -7,33 +7,29 @@
       <paragraphs>
         <title>Use Case</title>
         <p>
-          Author short documents, like class announcements, responses to student questions, or short 
-          homework assignments for which you do not need to have a printable version.
+          Author interactive elements for illustrations or student exploration. 
         </p>
       </paragraphs>
       <paragraphs>
         <title>Time Commitment</title>
         <p>
-          Minimal. 
+          Minimal. There are many existing Desmos interactives, and it is fairly quick and intuitive to create new interactives. 
         </p>
       </paragraphs>
     </introduction> 
     <subsection xml:id="desmos-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 1</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-      <subsubsection xml:id="desmos-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
-    </subsection>
-
-    <subsection xml:id="desmos-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 2</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
+    <title>Desmos Interactives</title>
+      <p>
+        <url href="https://www.desmos.com/">Desmos</url> is a suite of web-based math tools. There are 
+        <url href="https://www.desmos.com/accessibility">built-in accessibility features in Desmos</url>.
+        The main things to be thoughtful of when writing or using Desmos interactives are the following.
+        <ol>
+          <li>
+            <p>
+              WHAT GOES HERE?
+            </p>
+          </li>
+        </ol>
+      </p>
     </subsection>
   </section>

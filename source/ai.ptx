@@ -1,27 +1,97 @@
 <?xml version='1.0' encoding='utf-8'?>
 
   <section xml:id="ai">
-    <title>AI</title>
+    <title>Alternative Text and Long Descriptions</title>
     
     <introduction xml:id="ai-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Write useful alternative text/descriptions for images. 
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Minimal to significant. This can vary depending on how many images you need to create alternative text for.
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="ai-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 1</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-      <subsubsection xml:id="ai-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
+    <title>Writing Alt Text and Descriptions</title>
+    <p>
+      Alt text should convey the purpose of an image. It's possible that two different instructors use the same image to 
+      convey different information. In this case, their alternative texts for the image would not be exactly the same. Alt
+      text should be concise (around 120 characters or less). If an image is complex and cannot be adequately described with 
+      alt text, you can include a long description next to the image or link to a separate document. Long descriptions can
+      include more formatting when necessary, like headings, lists, and tables.
+    </p>
+    <p>
+      AI can be a helpful aid in generating image descriptions. As a starting point, you may try submitting your image with
+      a prompt like <q>generate an alternative text for this image</q>. Since only you know your intent for the image, you 
+      will likely want to modify the output.
+    </p>
+    <p>
+      You can also read this <url href="https://pretextbook.org/doc/guide/html/topic-accessibility.html#subsec-img-desc-advice">advice for writing image descriptions</url>.
+    </p>
+      
     </subsection>
 
     <subsection xml:id="ai-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 2</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
+    <title>Adding Alt Text and Descriptions to Images</title>
+    <introduction>
+      <p>
+        How alternative text is added to an image will vary depending what you are using to create your document. We've
+        included some common cases below.
+      </p>
+    </introduction>
+      <subsubsection xml:id="alt-pretext">
+        <title>PreTeXt</title>
+        <p>
+          Alt text can be added with the <tag>shortdescription</tag> tag, while long descriptions can be added with the
+          <tag>description</tag> tag. This is outlined in the <url href="https://pretextbook.org/doc/guide/html/overview-images.html#overview-images-9">images 
+            overview of the PreTeXt guide</url>.
+        </p>
+      </subsubsection>
+
+      <subsubsection xml:id="alt-latex">
+        <title>LaTeX</title>
+        <p>
+          I don't know of a good way to do this as of now. Please send me a message if you have one. 
+        </p>
+      </subsubsection>
+
+      <subsubsection xml:id="alt-pdf">
+        <title>PDF</title>
+        <p>
+          To add alt text, open your .pdf file in Adobe Acrobat, and select <c>Tools > Prepare for accessibility > Add alternate text</c>. Note that 
+          your document must be <xref ref="markup-1" text="custom">properly tagged</xref> in order for Adobe to find the images needing alt text.
+        </p>
+        <p>
+          To add a long description, include it in a paragraph close to your image, or link to a separate file or appendix.
+        </p>
+      </subsubsection>
+
+      <subsubsection xml:id="alt-microsoft">
+        <title>Word/Powerpoint</title>
+        <p>
+          To add alt text to an image in Word or Powerpoint, right click the image and select "View Alt Text...". Enter your alt text in
+          the window provided.
+        </p>
+        <p>
+          To add a long description, include it in a paragraph close to your image, or link to a separate file.
+        </p>
+      </subsubsection>
+
+      <subsubsection xml:id="alt-canvas">
+        <title>Canvas</title>
+        <p>
+          To add alt text to an image in Canvas pages, select the image and then "Image Options". Enter your alt text in
+          the window provided.
+        </p>
+        <p>
+          To add a long description, include it in a paragraph close to your image, or link to a separate file.
+        </p>
+      </subsubsection>
     </subsection>
   </section>

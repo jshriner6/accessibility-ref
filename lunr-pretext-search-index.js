@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8",
   "title": "Desmos",
-  "body": " Desmos    Use Case  Author short documents, like class announcements, responses to student questions, or short homework assignments for which you do not need to have a printable version.    Time Commitment  Minimal.     Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " Desmos    Use Case  Author interactive elements for illustrations or student exploration.    Time Commitment  Minimal. There are many existing Desmos interactives, and it is fairly quick and intuitive to create new interactives.     Desmos Interactives   Desmos is a suite of web-based math tools. There are built-in accessibility features in Desmos . The main things to be thoughtful of when writing or using Desmos interactives are the following.   WHAT GOES HERE?      "
 },
 {
   "id": "doenet",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9",
   "title": "Doenet",
-  "body": " Doenet    Use Case  Author short documents, like class announcements, responses to student questions, or short homework assignments for which you do not need to have a printable version.    Time Commitment  Minimal.     Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " Doenet    Use Case  Author exercises that can provide immediate feedback and\/or interactive elements for illustrations or student exploration.    Time Commitment  Moderate to significant. There are many existing Doenet activities, but there would be a necessary time investment to learn syntax for creating new activities.     Doenet Activities   Doenet provides a markup language that can generate interactive webpages. No local installations are necessary, and all authoring is done within a web browser. The main things to be thoughtful of when writing or using Doenet activities are the following.   WHAT GOES HERE?      "
 },
 {
   "id": "echo360",

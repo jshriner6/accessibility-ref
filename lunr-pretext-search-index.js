@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7",
   "title": "WeBWorK",
-  "body": " WeBWorK   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " WeBWorK    Use Case  Author exercises that can provide immediate feedback.    Time Commitment  Moderate to significant. This will depend if you are creating all of your content from scratch, or if you are modifying existing content.     WeBWorK Exercises   WeBWorK is a web-based system that allows you to write and assign self-graded questions. Student progress can be tracked and imported into Canvas. The CSU WeBWorK server has a list of existing courses in WeBWorK that can be used and modified.  There are built-in accessibility features in WeBWorK . The main things to be thoughtful of when writing or using a WeBWorK exercise are the following.   All math content should be authored in math mode (i.e., enclosing math in \\( \\) ).    If your exercise contains an image, be sure to write alternate text that includes the information needed from the image to answer the question being asked. If you are writing or using questions that have variation, be sure to make your alternate text dynamic by using the necessary variables in your image description.      "
 },
 {
   "id": "desmos",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8",
   "title": "Desmos",
-  "body": " Desmos   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " Desmos    Use Case  Author short documents, like class announcements, responses to student questions, or short homework assignments for which you do not need to have a printable version.    Time Commitment  Minimal.     Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
 {
   "id": "doenet",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9",
   "title": "Doenet",
-  "body": " Doenet   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " Doenet    Use Case  Author short documents, like class announcements, responses to student questions, or short homework assignments for which you do not need to have a printable version.    Time Commitment  Minimal.     Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
 },
 {
   "id": "echo360",

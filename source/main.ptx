@@ -11,9 +11,6 @@
 
   <article xml:id="tool">
     <title>Accessibility Tools</title>
-    <introduction xml:id="tools-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>General Remarks</p>
-    </introduction> 
 
     <xi:include href="./oer.ptx" />
     <xi:include href="./markup.ptx"/>

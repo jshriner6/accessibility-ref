@@ -37,9 +37,9 @@ var ptx_lunr_docs = [
   "body": " Canvas    Use Case  Author short documents, like class announcements, responses to student questions, or short homework assignments for which you do not need to have a printable version.    Time Commitment  Minimal.     Using the Canvas Editor  When typing math in Canvas, you can type LaTeX code directly in the equation editor, which will render the output in an accessible format (using MathJax).  When authoring pages in Canvas, be sure to use the provided options for headings, lists, and tables (as opposed to creating your own formatting). This will ensure the page is created in a way that is accessible to screen readers.   "
 },
 {
-  "id": "ai",
+  "id": "alttext",
   "level": "1",
-  "url": "ai.html",
+  "url": "alttext.html",
   "type": "Section",
   "number": "5",
   "title": "Alternative Text and Long Descriptions",

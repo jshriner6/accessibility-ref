@@ -83,7 +83,7 @@
       </introduction>
       <p>
         <url href="https://math.nist.gov/~BMiller/LaTeXML/">LaTeXML</url> accepts a .tex file and outputs an HTML file. This
-        is what is currently being used by <url href="https://arxiv.org/">arXiv</url> to provide HTML versions of papers. 
+        is what is currently being used by <url href="https://arxiv.org/">arXiv</url> to provide HTML versions of submitted papers. 
       </p>
       <p>
         This requires a <url href="https://math.nist.gov/~BMiller/LaTeXML/get.html">local installation</url>, and can be run

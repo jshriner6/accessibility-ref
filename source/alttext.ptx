@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-  <section xml:id="ai">
+  <section xml:id="alttext">
     <title>Alternative Text and Long Descriptions</title>
     
-    <introduction xml:id="ai-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <introduction xml:id="alttext-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
       <paragraphs>
         <title>Use Case</title>
         <p>
@@ -17,7 +17,7 @@
         </p>
       </paragraphs>
     </introduction> 
-    <subsection xml:id="ai-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <subsection xml:id="alttext-1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Writing Alt Text and Descriptions</title>
     <p>
       Alt text should convey the purpose of an image. It's possible that two different instructors use the same image to 
@@ -37,7 +37,7 @@
       
     </subsection>
 
-    <subsection xml:id="ai-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <subsection xml:id="alttext-2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Adding Alt Text and Descriptions to Images</title>
     <introduction>
       <p>

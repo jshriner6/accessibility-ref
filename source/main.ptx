@@ -21,7 +21,7 @@
     <xi:include href="./html.ptx" />
     <xi:include href="./canvas.ptx" />
 
-    <xi:include href="./ai.ptx" />
+    <xi:include href="./alttext.ptx" />
     <xi:include href="./prefigure.ptx" />
 
     <xi:include href="./webwork.ptx" />

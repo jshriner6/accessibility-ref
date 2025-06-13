@@ -7,28 +7,31 @@
       <paragraphs>
         <title>Use Case</title>
         <p>
-          Update an existing document (typically a PDF or Microsoft document) to be accessible by screen readers.
+          Update an existing PDF or Microsoft document to be accessible by screen readers.
         </p>
       </paragraphs>
       <paragraphs>
         <title>Time Commitment</title>
         <p>
           Minimal to significant. For short documents, the effort is minimal. To update larger documents (like textbooks),
-          the effort is significant.
+          the effort can be significant.
         </p>
       </paragraphs>
     </introduction> 
     <subsection xml:id="markup-1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>PDF</title>
       <p>
-        This is how you tag PDFs.
+        To make a PDF generated from a .tex file fully accessible, you can complete the 
+        <url href="https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/pdf-converted/">"Advanced Tasks in Acrobat Professional" items</url>.
       </p>
     </subsection>
 
     <subsection xml:id="markup-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Microsoft</title>
+    <title>Microsoft Word and Powerpoint</title>
       <p>
-        This is how you tag Microsoft documents.
+        To make Word and Powerpoint documents fully accessible, you can complete the
+        <url href="https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/word/">Priority and Advanced Tasks for Word</url> 
+        and the <url href="https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/powerpoint/">Priority and Advanced Tasks for Powerpoint</url>.
       </p>
     </subsection>
   </section>

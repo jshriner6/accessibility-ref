@@ -4,24 +4,30 @@
     <title>PreFigure</title>
     
     <introduction xml:id="prefigure-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <p>Remarks about general use cases and level of time commitment.</p>
+      <paragraphs>
+        <title>Use Case</title>
+        <p>
+          Create your own images.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Time Commitment</title>
+        <p>
+          Significant.
+        </p>
+      </paragraphs>
     </introduction> 
     <subsection xml:id="prefigure-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 1</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
-      <subsubsection xml:id="prefigure-1-1">
-      <title>My First Subsection</title>
-        <p>Some more words</p>
-        <p>foo</p>
-      </subsubsection>
-    </subsection>
-
-    <subsection xml:id="prefigure-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Workflow 2</title>
-      <introduction>
-        <p>Some words</p>
-      </introduction>
+    <title>PreFigure Images</title>
+      <p>
+        <url href="https://prefigure.org/">PreFigure</url> is an authoring system for mathematical images where the focus
+        is on describing the meaning and purpose of the image. This allows for the creation of images that are very accessible,
+        and can also be rendered in a tactile format.
+      </p>
+      <p>
+        I do not have experience with PreFigure, but there is <url href="https://prefigure.org/docs/frontmatter.html">PreFigure documentation</url>
+        which includes examples, as well as a <url href="https://davidaustinm.github.io/prefigure/">PreFigure playground</url>.
+        If you play around and learn some things, please send me what you learn so I can include it here.
+      </p>
     </subsection>
   </section>

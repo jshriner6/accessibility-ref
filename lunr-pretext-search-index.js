@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2",
   "title": "Markup",
-  "body": " Markup    Use Case  Update an existing document (typically a PDF or Microsoft document) to be accessible by screen readers.    Time Commitment  Minimal to significant. For short documents, the effort is minimal. To update larger documents (like textbooks), the effort is significant.     PDF  This is how you tag PDFs.    Microsoft  This is how you tag Microsoft documents.   "
+  "body": " Markup    Use Case  Update an existing PDF or Microsoft document to be accessible by screen readers.    Time Commitment  Minimal to significant. For short documents, the effort is minimal. To update larger documents (like textbooks), the effort can be significant.     PDF  To make a PDF generated from a .tex file fully accessible, you can complete the \"Advanced Tasks in Acrobat Professional\" items .    Microsoft Word and Powerpoint  To make Word and Powerpoint documents fully accessible, you can complete the Priority and Advanced Tasks for Word and the Priority and Advanced Tasks for Powerpoint .   "
 },
 {
   "id": "html",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6",
   "title": "PreFigure",
-  "body": " PreFigure   Remarks about general use cases and level of time commitment.    Workflow 1   Some words    My First Subsection  Some more words  foo     Workflow 2   Some words    "
+  "body": " PreFigure    Use Case  Create your own images.    Time Commitment  Significant.     PreFigure Images   PreFigure is an authoring system for mathematical images where the focus is on describing the meaning and purpose of the image. This allows for the creation of images that are very accessible, and can also be rendered in a tactile format.  I do not have experience with PreFigure, but there is PreFigure documentation which includes examples, as well as a PreFigure playground . If you play around and learn some things, please send me what you learn so I can include it here.   "
 },
 {
   "id": "webwork",

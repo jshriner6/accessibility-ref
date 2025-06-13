@@ -37,7 +37,7 @@
         <title>Audio Description</title>
         <p>
           Audio description files are a narration of meaningful visual information in a video to provide context, 
-          clarify speakers, and articulate visual elements. (like alternative text for videos). If you are creating new videos,
+          clarify speakers, and articulate visual elements (like alternative text for videos). If you are creating new videos,
           it is good to think about how you might articulate meaning and avoid certain presentation styles so that 
           such an additional file would not be necessary. If you are using existing videos where such a file would be useful, 
           you can add an audio file in Echo360 by (HOW DO YOU DO THIS? I don't see the "Accessibility" option in media details)

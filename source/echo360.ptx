@@ -31,6 +31,14 @@
           edited for accuracy. One workflow in Echo360 is to find your video and select <q>Edit Transcript</q>. Once your transcript
           is edited, you can then select <q>Apply to CC</q> to also update the caption file.
         </p>
+        <p>
+          You can also use <url href="https://www.google.com/advanced_video_search">Google's advanced video search</url> or
+          the <q>Filters</q> menu in YouTube to find existing videos that contain closed captioning. 
+        </p>
+        <p>
+          If you need further support, visit <url href="https://tilt.colostate.edu/iie/closed-caption-and-audio-description-support/">TILT's page on 
+          captions and audio descriptions</url> for contact information. 
+        </p>
       </subsubsection>
 
       <subsubsection xml:id="echo360-audiodesc">
@@ -39,8 +47,11 @@
           Audio description files are a narration of meaningful visual information in a video to provide context, 
           clarify speakers, and articulate visual elements (like alternative text for videos). If you are creating new videos,
           it is good to think about how you might articulate meaning and avoid certain presentation styles so that 
-          such an additional file would not be necessary. If you are using existing videos where such a file would be useful, 
-          you can add an audio file in Echo360 by (HOW DO YOU DO THIS? I don't see the "Accessibility" option in media details)
+          such an additional file would not be necessary. 
+        </p>
+        <p>
+          If you are using existing videos where such a file would be useful, 
+          you can contact TILT for additional support. Adding an audio description in Echo360 is not yet available.  
         </p>
       </subsubsection>
     </subsection>

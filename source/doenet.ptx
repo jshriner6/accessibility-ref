@@ -24,14 +24,7 @@
       <p>
         <url href="https://www.doenet.org/">Doenet</url> provides a markup language that can generate interactive webpages.
         No local installations are necessary, and all authoring is done within a web browser.
-        The main things to be thoughtful of when writing or using Doenet activities are the following.
-        <ol>
-          <li>
-            <p>
-              WHAT GOES HERE?
-            </p>
-          </li>
-        </ol> 
+        When authoring your own interactives, avoid designs that are not keyboard navigable.
       </p>
     </subsection>
   </section>

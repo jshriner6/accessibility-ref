@@ -68,7 +68,7 @@
         <title>PDF</title>
         <p>
           To add alt text, open your .pdf file in Adobe Acrobat, and select <c>Tools > Prepare for accessibility > Add alternate text</c>. Note that 
-          your document must be <xref ref="markup-1" text="custom">properly tagged</xref> in order for Adobe to find the images needing alt text.
+          your document must be <xref ref="markup-2" text="custom">properly tagged</xref> in order for Adobe to find the images needing alt text.
         </p>
         <p>
           To add a long description, include it in a paragraph close to your image, or link to a separate file or appendix.

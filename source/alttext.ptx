@@ -23,8 +23,9 @@
       Alt text should convey the purpose of an image. It's possible that two different instructors use the same image to 
       convey different information. In this case, their alternative texts for the image would not be exactly the same. Alt
       text should be concise (around 120 characters or less). If an image is complex and cannot be adequately described with 
-      alt text, you can include a long description next to the image or link to a separate document. Long descriptions can
-      include more formatting when necessary, like headings, lists, and tables.
+      alt text, you can include a long description directly in the text next to the image, or link to a separate document. 
+      Long descriptions can include more formatting when necessary, like headings, lists, and tables. If an image is
+      adequately described in the text, the alt text can just point users to the surrounding text for the description.
     </p>
     <p>
       AI can be a helpful aid in generating image descriptions. As a starting point, you may try submitting your image with
@@ -32,7 +33,8 @@
       will likely want to modify the output.
     </p>
     <p>
-      You can also read this <url href="https://pretextbook.org/doc/guide/html/topic-accessibility.html#subsec-img-desc-advice">advice for writing image descriptions</url>.
+      You can also read this <url href="https://pretextbook.org/doc/guide/html/topic-accessibility.html#subsec-img-desc-advice">advice for writing image descriptions</url>
+      if you'd like more detailed information.
     </p>
       
     </subsection>
@@ -57,7 +59,8 @@
       <subsubsection xml:id="alt-latex">
         <title>LaTeX</title>
         <p>
-          I don't know of a good way to do this as of now. Please send me a message if you have one. 
+          Use the syntax <c>\includegraphics[alt={Short alt text goes here}]{image.png}</c> to add alt text to your images in
+          LaTeX. See <xref ref="markup-1"/> for important details on how to enable tagging and alt text in your LaTeX documents.
         </p>
       </subsubsection>
 

@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2",
   "title": "Markup",
-  "body": " Markup    Use Case  Update an existing PDF or Microsoft document to be accessible by screen readers.    Time Commitment  Minimal to significant. For short documents, the effort is minimal. To update larger documents (like textbooks), the effort can be significant.     LaTeX  Description with template of tagging project info.    PDF  To make a PDF generated from a .tex file fully accessible, you can complete the \"Advanced Tasks in Acrobat Professional\" items .    Microsoft Word and Powerpoint  To make Word and Powerpoint documents fully accessible, you can complete the Priority and Advanced Tasks for Word and the Priority and Advanced Tasks for Powerpoint .   "
+  "body": " Markup    Use Case  Format .tex files to produce a more accessible output, or update an existing PDF or Microsoft document to be accessible by screen readers.    Time Commitment  Minimal to significant. To format .tex files, the effort is minimal. To update existing PDF or Microsoft documents, the effort is typically significant, and is not expected that faculty attempt this without support.     LaTeX  Description with template of tagging project info.    PDF  To make a PDF generated from a .tex file fully accessible, you can complete the \"Advanced Tasks in Acrobat Professional\" items .    Microsoft Word and Powerpoint  To make Word and Powerpoint documents fully accessible, you can complete the Priority and Advanced Tasks for Word and the Priority and Advanced Tasks for Powerpoint .   "
 },
 {
   "id": "html",

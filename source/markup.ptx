@@ -7,14 +7,15 @@
       <paragraphs>
         <title>Use Case</title>
         <p>
-          Update an existing PDF or Microsoft document to be accessible by screen readers.
+          Format .tex files to produce a more accessible output, or update an existing PDF or Microsoft document to 
+          be accessible by screen readers.
         </p>
       </paragraphs>
       <paragraphs>
         <title>Time Commitment</title>
         <p>
-          Minimal to significant. For short documents, the effort is minimal. To update larger documents (like textbooks),
-          the effort can be significant.
+          Minimal to significant. To format .tex files, the effort is minimal. To update existing PDF or Microsoft documents,
+          the effort is typically significant, and is not expected that faculty attempt this without support.
         </p>
       </paragraphs>
     </introduction> 

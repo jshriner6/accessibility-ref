@@ -89,6 +89,10 @@
         This requires a <url href="https://math.nist.gov/~BMiller/LaTeXML/get.html">local installation</url>, and can be run
         <url href="https://math.nist.gov/~BMiller/LaTeXML/ussage.html">using a single command</url> from your computer's terminal.
       </p>
+      <p>
+        Once installed, open your computer's terminal and navigate to the folder location of the .tex file you would like to convert (call it mydoc.tex).
+        Then run <c>latexmlc --dest=mydoc.html mydoc</c>, which should create mydoc.html in the same folder.
+      </p>
     </subsection>
 
   </section>

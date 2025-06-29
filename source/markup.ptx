@@ -28,6 +28,10 @@
           standard document classes (article, report, and book).
       </p>
       <p>
+        This is an active project and changes are ongoing. There is a <url href="https://latex3.github.io/tagging-project/tagging-status/">
+          documented list of packages with their current compatibility status</url> with respect to tagging.
+      </p>
+      <p>
         A template file is provided below indicating the important syntax to include in your documents.
         <program language="latex" line-numbers="yes">
           <code>
@@ -47,11 +51,11 @@
 
           \begin{document}
           \section{Document Title}
-          A section is tagged as header level H1. There should just be one per document.
+          A section is tagged with header level H1. There should only be one per document.
 
 
           \subsection{Part 1}
-          Other parts of the documents can be subsections, tagged as header levels H2.    
+          Other parts of the document can be subsections, which are tagged with header level H2.    
 
 
           \noindent When creating a table, it is important to indicate the header row(s).

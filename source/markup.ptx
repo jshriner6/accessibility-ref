@@ -14,7 +14,7 @@
       <paragraphs>
         <title>Time Commitment</title>
         <p>
-          Minimal to significant. To format .tex files, the effort is minimal. To update existing PDF or Microsoft documents,
+          Minimal to significant. To format .tex files, the effort is minimal. To update existing PDF documents,
           the effort is typically significant, and is not expected that faculty attempt this without support.
         </p>
       </paragraphs>
@@ -22,7 +22,57 @@
     <subsection xml:id="markup-1">
       <title>LaTeX</title>
       <p>
-        Description with template of tagging project info.
+        The <url href="https://latex3.github.io/tagging-project/documentation/prototype-usage-instructions.html">
+          LaTeX tagging project</url> has made it possible to enable tagging of the PDF outputs. The new code can be used with pdfLaTeX or 
+          luaLaTeX. The latter is the preferred engine recommended for new documents. Its use is currently restricted to the 
+          standard document classes (article, report, and book).
+      </p>
+      <p>
+        A template file is provided below indicating the important syntax to include in your documents.
+        <program language="latex" line-numbers="yes">
+          <code>
+          % !TeX program = lualatex
+          \DocumentMetadata{
+          pdfversion=2.0,  
+          lang=en-US,   
+          pdfstandard={ua-2, a-4f},
+          tagging = on, 
+          tagging-setup={math/setup={mathml-SE}} ,
+          }
+          % The complete list of keys available for \DocumentMetadata are documented at 
+          % https://ctan.math.washington.edu/tex-archive/macros/latex-dev/required/latex-lab/documentmetadata-support-code.pdf
+          \documentclass{article}
+          \usepackage{graphicx}
+          \usepackage{unicode-math}
+
+          \begin{document}
+          \section{Document Title}
+          A section is tagged as header level H1. There should just be one per document.
+
+
+          \subsection{Part 1}
+          Other parts of the documents can be subsections, tagged as header levels H2.    
+
+
+          \noindent When creating a table, it is important to indicate the header row(s).
+
+          \tagpdfsetup{table/header-rows={1}}
+          \begin{tabular}{lr}
+            Name &amp; Value\\
+            This &amp; 11 \\
+            That &amp; 2
+          \end{tabular}
+
+
+          \subsection{Part 3}
+          This part has an image. It is important to include alternative text for images. See 
+          Subsection 5.1 for more information.
+
+          \includegraphics[alt={Short alt text goes here.}]{image.png}
+
+          \end{document}
+          </code>
+        </program>
       </p>
     </subsection>
     <subsection xml:id="markup-2" xmlns:xi="http://www.w3.org/2001/XInclude">
@@ -39,6 +89,9 @@
         To make Word and Powerpoint documents fully accessible, you can complete the
         <url href="https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/word/">Priority and Advanced Tasks for Word</url> 
         and the <url href="https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/powerpoint/">Priority and Advanced Tasks for Powerpoint</url>.
+      </p>
+      <p>
+        Pay particular attention to the Color Contrast topic for these documents. This can be checked and fixed with minimal effort.
       </p>
     </subsection>
   </section>

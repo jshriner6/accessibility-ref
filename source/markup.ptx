@@ -82,7 +82,7 @@
     <subsection xml:id="markup-2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>PDF</title>
       <p>
-        To make a PDF generated from a .tex file fully accessible, you can complete the 
+        To make an existing PDF with no source file fully accessible, you can complete the 
         <url href="https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/pdf-converted/">"Advanced Tasks in Acrobat Professional" items</url>.
       </p>
     </subsection>

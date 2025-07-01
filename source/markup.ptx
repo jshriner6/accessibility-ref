@@ -32,6 +32,7 @@
           documented list of packages with their current compatibility status</url> with respect to tagging.
       </p>
       <p>
+        Most tagging is done for you automatically. Some information must be provided by the author for tagging, namely for tables and images.
         A template file is provided below indicating the important syntax to include in your documents.
         <program language="latex" line-numbers="yes">
           <code>

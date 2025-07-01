@@ -78,6 +78,11 @@
           </code>
         </program>
       </p>
+      <p>
+        It may be necessary to update your packages to get your document to compile. Using TeX Live 2025 with updated 
+        packages, the above file compiles to this <url href="https://jshriner6.github.io/files/TagSample.pdf">tagged example PDF</url>. 
+        The code does not currently compile for me on Overleaf.
+      </p>
     </subsection>
     <subsection xml:id="markup-2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>PDF</title>

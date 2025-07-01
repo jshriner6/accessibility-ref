@@ -25,7 +25,8 @@
       text should be concise (around 120 characters or less). If an image is complex and cannot be adequately described with 
       alt text, you can include a long description directly in the text next to the image, or link to a separate document. 
       Long descriptions can include more formatting when necessary, like headings, lists, and tables. If an image is
-      adequately described in the text, the alt text can just point users to the surrounding text for the description.
+      adequately described in the text, the alt text can just point users to the surrounding text for the description. If
+      an image is present solely for decorative purposes, it can be marked as such.
     </p>
     <p>
       AI can be a helpful aid in generating image descriptions. As a starting point, you may try submitting your image with
@@ -51,7 +52,8 @@
         <title>PreTeXt</title>
         <p>
           Alt text can be added with the <tag>shortdescription</tag> tag, while long descriptions can be added with the
-          <tag>description</tag> tag. This is outlined in the <url href="https://pretextbook.org/doc/guide/html/overview-images.html#overview-images-9">images 
+          <tag>description</tag> tag. An image can be marked decorative by setting <c>decorative="yes"</c> as an attribute of the image.
+          This is outlined in the <url href="https://pretextbook.org/doc/guide/html/overview-images.html#overview-images-9">images 
             overview of the PreTeXt guide</url>.
         </p>
       </subsubsection>
@@ -61,6 +63,12 @@
         <p>
           Use the syntax <c>\includegraphics[alt={Short alt text goes here}]{image.png}</c> to add alt text to your images in
           LaTeX. See <xref ref="markup-1"/> for important details on how to enable tagging and alt text in your LaTeX documents.
+        </p>
+        <p>
+          To add a long description, include it in a paragraph close to your image, or link to a separate file or appendix.
+        </p>
+        <p>
+          To mark an image as decorative, use the syntax <c>\includegraphics[artifact]{image.png}</c>.
         </p>
       </subsubsection>
 

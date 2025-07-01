@@ -255,10 +255,13 @@ Other parts of the document can be subsections, which are tagged with header lev
 
 
 \subsection{Part 3}
-This part has an image. It is important to include alternative text for images. See 
-Subsection 5.1 for more information.
+This part has an image. It is important to include alternative text for images, or mark them as decorative. 
+The first has an alt text, while the second is marked as decorative. See 
+Subsection 5.1 for more information. 
 
-\includegraphics[alt={Short alt text goes here.}]{image.png}
+\includegraphics[height=4cm, alt={The Colorado State University ram logo.}]{image.png}
+
+\includegraphics[height=4cm, artifact]{image.png}
 
 \end{document}
 </code></pre></div>

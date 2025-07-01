@@ -75,8 +75,9 @@
       <subsubsection xml:id="alt-pdf">
         <title>PDF</title>
         <p>
-          To add alt text, open your .pdf file in Adobe Acrobat, and select <c>Tools > Prepare for accessibility > Add alternate text</c>. Note that 
-          your document must be <xref ref="markup-2" text="custom">properly tagged</xref> in order for Adobe to find the images needing alt text.
+          To add alt text, open your .pdf file in Adobe Acrobat, and select <c>Tools > Prepare for accessibility > Add alternate text</c>. 
+          If the image is decorative, check the "Decorative figure" checkbox and leave the alt text field blank.
+          Note that your document must be <xref ref="markup-2" text="custom">properly tagged</xref> in order for Adobe to find the images needing alt text.
         </p>
         <p>
           To add a long description, include it in a paragraph close to your image, or link to a separate file or appendix.
@@ -87,7 +88,7 @@
         <title>Word/Powerpoint</title>
         <p>
           To add alt text to an image in Word or Powerpoint, right click the image and select "View Alt Text...". Enter your alt text in
-          the window provided.
+          the window provided. If the image is decorative, leave the alt text field blank and toggle "Mark as decorative" to on.
         </p>
         <p>
           To add a long description, include it in a paragraph close to your image, or link to a separate file.
@@ -98,7 +99,7 @@
         <title>Canvas</title>
         <p>
           To add alt text to an image in Canvas pages, select the image and then "Image Options". Enter your alt text in
-          the window provided.
+          the window provided. If the image is decorative, leave the alt text field blank and check the "Decorative Image" checkbox.
         </p>
         <p>
           To add a long description, include it in a paragraph close to your image, or link to a separate file.
